@@ -4,7 +4,9 @@ O objetivo do projeto é propor a utilização de 3 serviços da AWS para diminu
   RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
   Data: 12 de Janeiro de 2026 
+  
   Empresa: Abstergo Industries
+  
   Responsável: Lázaro Leonardo Peña Reyes 
 
   Introdução
