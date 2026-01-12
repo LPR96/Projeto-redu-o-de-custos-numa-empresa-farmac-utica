@@ -1,4 +1,4 @@
-# Projeto-redu-o-de-custos-numa-empresa-farmac-utica
+# Projeto-redução-de-custos-numa-empresa-farmacêutica
 O objetivo do projeto é propor a utilização de 3 serviços da AWS para diminuir os custos de uma empresa farmacêutica. 
 
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
