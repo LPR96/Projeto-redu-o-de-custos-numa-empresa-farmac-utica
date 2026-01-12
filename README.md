@@ -49,6 +49,6 @@ O objetivo do projeto é propor a utilização de 3 serviços da AWS para diminu
 
   • Não há anexos específicos neste relatório inicial, mas futuras implementações podem incluir diagramas de arquitetura, planilhas de custo-benefício e manuais de operação.
 
-Assinatura do Responsável pelo Projeto:
+Assinatura do Responsável pelo Projeto: 
 Lázaro Leonardo.
 
